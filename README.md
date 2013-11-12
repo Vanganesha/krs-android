@@ -4,10 +4,12 @@ krs-android
 Kartu Rencana Studi android application
 
 Design UI    : Harry Ferdinan W Padang <br>
-Idea Project : Rudy Rothama Purba /n
-Software Eng : Alexander Sirait
-Web Database : Van Ray Hosea
-Coding       : Gerobakjen Team
+Idea Project : Rudy Rothama Purba <br>
+Software Eng : Alexander Sirait <br>
+Web Database : Van Ray Hosea <br>
+Coding       : Gerobakjen Team <br>
+
+Copyright (c) 2013 -<i> Gerobakjen Inc </i>
 
 ==========
 
