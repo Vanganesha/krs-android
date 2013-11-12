@@ -1,4 +1,16 @@
 krs-android
 ===========
 
-Kartu Rencana Studi
+Kartu Rencana Studi android application
+
+Design UI    : Harry Ferdinan W Padang
+Idea Project : Rudy Rothama Purba
+Software Eng : Alexander Sirait
+Web Database : Van Ray Hosea
+Coding       : Gerobakjen Team
+
+==========
+
+Hanya sekedar menyalurkan hobby saja..
+
+Bagi para master yang melihat project ini, dipersilahkan untuk berkontribusi bersama kami.
